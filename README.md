@@ -9,3 +9,8 @@ Currently working:
 Not working: 
 * Sequence Memmory
 * Number memmory
+
+
+<img src="screenshots/HomeView.png" width="200"> <img src="images/ReactionTestStartView.png" width="200"> <img src="images/WaitView.png" width="200"> <img src="images/TapView.png" width="200"> <img src="images/ResultView.png" width="200">
+
+<img src="images/A-ZView.png" width="200"> <img src="images/A-ZResultView.png" width="200">
